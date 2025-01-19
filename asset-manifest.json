@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Emma-Portfolio/static/css/main.d0e8982b.css",
+    "main.js": "/Emma-Portfolio/static/js/main.f393c21d.js",
+    "static/js/373.d0661a7f.chunk.js": "/Emma-Portfolio/static/js/373.d0661a7f.chunk.js",
+    "static/media/p5.svg": "/Emma-Portfolio/static/media/p5.3b5bdf0250537a9b979060cebed8a258.svg",
+    "static/media/p6.svg": "/Emma-Portfolio/static/media/p6.48c502fc55b88676770fed72ab0f4e88.svg",
+    "static/media/p3.svg": "/Emma-Portfolio/static/media/p3.7660b6c19de8f0e1307ba09543534c8c.svg",
+    "static/media/p4.svg": "/Emma-Portfolio/static/media/p4.5f41fb93f1f7add8501e747b1a94d4ec.svg",
+    "static/media/p2.svg": "/Emma-Portfolio/static/media/p2.a85a2ca4f3d54fcc349f2dfc2aeaed62.svg",
+    "static/media/p1.svg": "/Emma-Portfolio/static/media/p1.7d7860c6107a421077a7231141e0b63f.svg",
+    "static/media/emma.png": "/Emma-Portfolio/static/media/emma.b4efefce73a189c67925.png",
+    "static/media/ClientImage.svg": "/Emma-Portfolio/static/media/ClientImage.66088e2893ece0b68eec9e54143455ba.svg",
+    "static/media/favicon.png": "/Emma-Portfolio/static/media/favicon.84bd67a46f89564657e7.png",
+    "static/media/samsung.svg": "/Emma-Portfolio/static/media/samsung.9f12fbd405e57fe4abab3a5b764beeb4.svg",
+    "static/media/addidas.svg": "/Emma-Portfolio/static/media/addidas.c4112206e8d7f5ab1047430deae0c78f.svg",
+    "static/media/instagram.svg": "/Emma-Portfolio/static/media/instagram.32a88478f82e40b34e0ee71ac5879d8e.svg",
+    "static/media/google.svg": "/Emma-Portfolio/static/media/google.0c9db4c7bf013f6a57fbfba2821ccbda.svg",
+    "static/media/behance.svg": "/Emma-Portfolio/static/media/behance.fd3c7608ef9cbe7c0535812b3c5d644e.svg",
+    "static/media/apple.svg": "/Emma-Portfolio/static/media/apple.7d479efe2f5311b67894965f38684877.svg",
+    "static/media/discord.svg": "/Emma-Portfolio/static/media/discord.80552a8b867f0aef3cc2638a27e65fd9.svg",
+    "static/media/dribbble.svg": "/Emma-Portfolio/static/media/dribbble.126c643337269ef97d1a25bb08cb75c5.svg",
+    "static/media/nike.svg": "/Emma-Portfolio/static/media/nike.b3aa4b554e021028a0b76cc8e4918fa1.svg",
+    "static/media/Star.svg": "/Emma-Portfolio/static/media/Star.00f6f2dfa624c52013a5431d79fb2735.svg",
+    "index.html": "/Emma-Portfolio/index.html",
+    "static/media/Frame2.svg": "/Emma-Portfolio/static/media/Frame2.46d89579b2c2146eb38bca8e44cb0883.svg",
+    "static/media/card2.svg": "/Emma-Portfolio/static/media/card2.9123a024ff85723b6b1498781b844e47.svg",
+    "static/media/facebook.svg": "/Emma-Portfolio/static/media/facebook.c7b64cae8dd46cfe1d21d952b236c1e4.svg",
+    "static/media/Frame1.svg": "/Emma-Portfolio/static/media/Frame1.e28ae4654403714ed6ba11e80b090778.svg",
+    "static/media/card3.svg": "/Emma-Portfolio/static/media/card3.a9faf4d977623401d59b77072cc80660.svg",
+    "static/media/card1.svg": "/Emma-Portfolio/static/media/card1.72b6f15576612743e0905d47c8b28018.svg",
+    "static/media/card4.svg": "/Emma-Portfolio/static/media/card4.a2de452e0ee6b1900661e77719ba8054.svg",
+    "main.d0e8982b.css.map": "/Emma-Portfolio/static/css/main.d0e8982b.css.map",
+    "main.f393c21d.js.map": "/Emma-Portfolio/static/js/main.f393c21d.js.map",
+    "373.d0661a7f.chunk.js.map": "/Emma-Portfolio/static/js/373.d0661a7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e8982b.css",
+    "static/js/main.f393c21d.js"
+  ]
+}
