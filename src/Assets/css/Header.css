@@ -1,0 +1,123 @@
+
+.navigation,
+.navigation * {
+  box-sizing: border-box;
+  
+  
+  
+}
+.navigation {
+  
+    background-color: #FF6250;
+    padding: 24px 42px;
+    display: flex;
+    flex-direction: row;
+    row-gap: 24px;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: center;
+    position: relative;
+    border: 1px solid #009379;
+    box-shadow: 1px 1px 10px #009379;
+    box-sizing: border-box; /* Ensure padding and border are inside the width/height */
+  }
+  
+   
+
+.logo {
+  color: var(--black, #2d2d2d);
+  text-align: left;
+  font-family: var(--subtitle-font-family, "Epilogue-SemiBold", sans-serif);
+  font-size: var(--subtitle-font-size, 20px);
+  line-height: var(--subtitle-line-height, 30px);
+  font-weight: var(--subtitle-font-weight, 600);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.logo-img{
+  width: 50px;
+
+}
+
+
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.about {
+  color: var(--black, #2d2d2d);
+  text-align: left;
+  font-family: var(--body-text-font-family, "Epilogue-Regular", sans-serif);
+  font-size: var(--body-text-font-size, 17px);
+  line-height: var(--body-text-line-height, 27px);
+  font-weight: var(--body-text-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.about:hover{
+  border: 2px solid silver;
+  border-radius: 8px;
+  background-color: #2E8B57;
+  padding: 2px;
+  color: white;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.work {
+  color: var(--black, #2d2d2d);
+  text-align: left;
+  font-family: var(--body-text-font-family, "Epilogue-Regular", sans-serif);
+  font-size: var(--body-text-font-size,  17px);
+  line-height: var(--body-text-line-height, 27px);
+  font-weight: var(--body-text-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.work:hover{
+  border: 2px solid silver;
+  border-radius: 8px;
+  background-color: #2E8B57;
+  padding: 2px;
+  color: white;
+  box-shadow: 5px 10px 8px #888888;
+
+}
+
+.h-contact {
+  color: var(--black, #2d2d2d);
+  text-align: left;
+  font-family: var(--body-text-font-family, "Epilogue-Regular", sans-serif);
+  font-size: var(--body-text-font-size,  17px);
+  line-height: var(--body-text-line-height, 27px);
+  font-weight: var(--body-text-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.h-contact:hover{
+  border: 2px solid silver;
+  border-radius: 8px;
+  background-color: #2E8B57;
+  padding: 2px;
+  color: white;
+  box-shadow: 5px 10px 8px #888888;
+}
